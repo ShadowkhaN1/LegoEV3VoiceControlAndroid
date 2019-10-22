@@ -1,5 +1,5 @@
 # LegoEV3VoiceControlAndroid
-> Download https://play.google.com/store/apps/details?id=com.neumann.LegoEV3Voice - Lego Mindstorms EV3 voice controller using android application.
+> Download https://play.google.com/store/apps/details?id=com.neumann.LegoEV3Voice 
 
 ## Table of contents
 * [General info](#general-info)
@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-Rest API programmed in Spring Boot. This application allows you to register, log in, add news, comment on news, write private messages to another users.
+Lego Mindstorms EV3 voice controller using android application.
 
 ## Screenshots
 ![Example screenshot](./img/Screenshot1.png)
