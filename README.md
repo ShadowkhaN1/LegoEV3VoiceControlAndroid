@@ -16,7 +16,6 @@ Lego Mindstorms EV3 voice controller using android application.
 
 ## Screenshots
 ![Example screenshot](/Screenshot1.png)
-![Example screenshot](/Screenshot2.png)
 
 ## Technologies
 - Xamarin
